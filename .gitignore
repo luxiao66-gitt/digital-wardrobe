@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Node
+node_modules/
+.next/
+out/
+
+# Environment
+.env
+.env.local
+
+# Local app data
+data/uploads/*
+data/processed/*
+data/database/*
+!data/uploads/.gitkeep
+!data/processed/.gitkeep
+!data/database/.gitkeep
+
