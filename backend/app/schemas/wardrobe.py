@@ -1,4 +1,4 @@
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 
 
 class BoundingBox(BaseModel):
@@ -9,11 +9,11 @@ class BoundingBox(BaseModel):
 
 
 class ItemTags(BaseModel):
-    colors: list[str] = []
+    colors: list[str] = Field(default_factory=list)
     pattern: str | None = None
-    style: list[str] = []
-    season: list[str] = []
-    occasion: list[str] = []
+    style: list[str] = Field(default_factory=list)
+    season: list[str] = Field(default_factory=list)
+    occasion: list[str] = Field(default_factory=list)
 
 
 class WardrobeItemResponse(BaseModel):
@@ -22,4 +22,3 @@ class WardrobeItemResponse(BaseModel):
     bbox: BoundingBox
     image_url: str
     tags: ItemTags
-
