@@ -1,0 +1,44 @@
+{
+    "items": [
+        {
+            "category": "hat",
+            "description": "A bucket hat with small, scattered dark patterns, possibly depicting abstract shapes or tiny animals.",
+            "color": "light beige"
+        },
+        {
+            "category": "top",
+            "description": "A short-sleeved t-shirt with a crew neck, smooth texture, and a relaxed fit.",
+            "color": "light blue"
+        },
+        {
+            "category": "scarf",
+            "description": "A decorative scarf or wrap tied around the waist, featuring an artistic illustration of a bird or abstract design on a light background, with a teal or gray border.",
+            "color": "white, red, teal, gray"
+        },
+        {
+            "category": "pants",
+            "description": "Wide-leg denim jeans with a relaxed fit, featuring a distressed or washed texture and a ruffled hem detail at the ankle.",
+            "color": "medium blue"
+        },
+        {
+            "category": "shoes",
+            "description": "Flat sandals with a cork footbed, two white straps adorned with floral cut-out details, and a dark sole.",
+            "color": "white, brown"
+        },
+        {
+            "category": "handbag",
+            "description": "A small, metallic silver shoulder bag with a short strap, featuring a slightly pleated or gathered texture.",
+            "color": "silver"
+        },
+        {
+            "category": "watch",
+            "description": "A digital wristwatch with a rectangular face and a metal link band.",
+            "color": "silver"
+        },
+        {
+            "category": "bracelet",
+            "description": "A beaded bracelet made of small, dark, possibly obsidian or onyx beads.",
+            "color": "black"
+        }
+    ]
+}

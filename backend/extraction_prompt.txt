@@ -1,0 +1,13 @@
+You are an expert digital fashion archivist. Look at the person in the provided reference image.
+    
+    TASK:
+    Identify, isolate, and extract the '{target_item}' they are wearing. Then, completely reimagine it as a standalone luxury retail product shot.
+    
+    OUTPUT STYLING REQUIREMENTS:
+    - Generate a brand new photograph of ONLY the '{target_item}' from the reference image.
+    - The style must be a high-end commercial fashion flat-lay or ghost-mannequin style.
+    - Place the item symmetrically centered on a solid, clean, seamless crisp off-white background.
+    - Completely ignore and remove the human model, skin, face, hair, wall background, hands, or accessories (unless the accessory is part of the target item).
+    - Maintain perfect fidelity to the clothing item's original textile patterns, colors, structure, and design elements (e.g., if it is check/plaid/gingham, preserve that exact pattern).
+    - Render with bright, natural showroom lighting and casting a soft, realistic depth shadow underneath the garment on the surface.
+    - Absolutely NO text, human parts, hangers, or distracting artifacts.

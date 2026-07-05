@@ -1,0 +1,29 @@
+{
+    "items": [
+        {
+            "category": "dress",
+            "description": "A sleeveless midi dress featuring a square neckline, a button-front bodice, an elasticated or ruched waist, and a full, gathered skirt extending to mid-calf. The fabric has a slightly textured appearance and is patterned with a large-scale plaid/check design composed of intersecting thin and thicker lines.",
+            "color": "white and red"
+        },
+        {
+            "category": "handbag",
+            "description": "A small, structured rectangular crossbody bag with a front flap closure and a long, adjustable shoulder strap. The material appears to be smooth leather.",
+            "color": "brown"
+        },
+        {
+            "category": "shoes",
+            "description": "Flat, closed-toe Mary Jane style shoes with a rounded toe, a strap across the instep with a buckle closure, and intricate cut-out perforation details across the vamp and sides.",
+            "color": "white"
+        },
+        {
+            "category": "accessory",
+            "description": "A digital smartwatch with a square face and a sleek band.",
+            "color": "silver and black"
+        },
+        {
+            "category": "accessory",
+            "description": "A thin, possibly beaded or braided string bracelet on the left wrist.",
+            "color": "gray"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "items": [
+        {
+            "category": "dress",
+            "description": "A midi-length A-line dress with a round neckline, relaxed elbow-length sleeves, and a drawstring waist that ties in the front, featuring two side pockets and a prominent gingham pattern.",
+            "color": "yellow and white"
+        },
+        {
+            "category": "shoes",
+            "description": "Flat slide sandals with two wide, criss-cross straps over the vamp.",
+            "color": "light brown and light pink"
+        },
+        {
+            "category": "handbag",
+            "description": "A crossbody shoulder bag with a thin, adjustable strap, likely made of leather.",
+            "color": "brown"
+        },
+        {
+            "category": "watch",
+            "description": "A smartwatch with a dark rectangular face and a silver-toned metal link band.",
+            "color": "black and silver"
+        }
+    ]
+}

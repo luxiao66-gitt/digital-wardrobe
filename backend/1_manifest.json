@@ -1,0 +1,29 @@
+{
+    "items": [
+        {
+            "category": "top",
+            "description": "A short-sleeved blouse with puffed sleeves, a gathered or smocked neckline with a small opening, and a loose fit, worn as an undershirt.",
+            "color": "white"
+        },
+        {
+            "category": "dress",
+            "description": "A long, loose-fitting pinafore or sundress featuring a plaid pattern with thin black spaghetti straps and a gathered bodice that flows into an A-line skirt. The pattern consists of dark blue/purple and maroon/burgundy squares with thinner light blue/purple intersecting lines.",
+            "color": "dark blue and maroon"
+        },
+        {
+            "category": "shoes",
+            "description": "Flat, closed-toe Mary Jane style shoes with a single strap over the instep, featuring an all-over perforated design on the upper.",
+            "color": "white"
+        },
+        {
+            "category": "handbag",
+            "description": "A small crossbody bag with a gold chain strap and a decorative tassel hanging from the side.",
+            "color": "light beige"
+        },
+        {
+            "category": "watch",
+            "description": "A smartwatch with a metallic link band.",
+            "color": "silver and black"
+        }
+    ]
+}

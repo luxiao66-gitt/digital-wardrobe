@@ -8,5 +8,5 @@ pillow
 ultralytics
 rembg
 openai
+fal-client
 pytest
-

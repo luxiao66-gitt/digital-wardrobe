@@ -1,0 +1,29 @@
+{
+    "items": [
+        {
+            "category": "top",
+            "description": "An off-white short-sleeved blouse with a round, gathered neckline, a partial button placket down the front, and subtly puffed sleeves with elasticated cuffs.",
+            "color": "off-white"
+        },
+        {
+            "category": "skirt",
+            "description": "A long, full A-line skirt featuring a plaid pattern with dominant navy blue and white squares, accented by thin red lines. The fabric appears to be cotton or a similar light material.",
+            "color": "navy blue, white, red"
+        },
+        {
+            "category": "shoes",
+            "description": "White closed-toe Mary Jane style flats with a perforated or cut-out design on the vamp and a single strap across the instep with a small buckle.",
+            "color": "white"
+        },
+        {
+            "category": "handbag",
+            "description": "A small, structured rectangular crossbody bag made of smooth, polished leather with a flap closure and a slim strap.",
+            "color": "brown"
+        },
+        {
+            "category": "watch",
+            "description": "A smartwatch with a rectangular face and a silver-colored metallic link band.",
+            "color": "silver, black"
+        }
+    ]
+}
